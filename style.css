@@ -1173,12 +1173,12 @@ a:hover .textclip_overlay {
 
 .chrome .works_cat_bnr1 .cat_bnrs_inner,
 .safari .works_cat_bnr1 .cat_bnrs_inner {
-    background-image: url(bnr_bg_art.webp)
+    background-image: url(bnr_bg_art.jpg)
 }
 
 .chrome .works_cat_bnr2 .cat_bnrs_inner,
 .safari .works_cat_bnr2 .cat_bnrs_inner {
-    background-image: url(bnr_bg_product.webp)
+    background-image: url(bnr_bg_product.jpg)
 }
 
 .grain {
@@ -3184,7 +3184,7 @@ textarea.wpcf7-not-valid {
 }
 
 .index_poster {
-    background-image: url(showcase.webp);
+    background-image: url(showcase.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -3192,7 +3192,7 @@ textarea.wpcf7-not-valid {
 }
 
 .about_poster {
-    background-image: url(bg_about_poster.webp);
+    background-image: url(bg_about_poster.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover
@@ -3228,14 +3228,14 @@ textarea.wpcf7-not-valid {
 }
 
 .works_cat_bnr1 {
-    background-image: url(bnr_bg_art.webp);
+    background-image: url(bnr_bg_art.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover
 }
 
 .works_cat_bnr2 {
-    background-image: url(bnr_bg_product.webp);
+    background-image: url(bnr_bg_product.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover
@@ -3870,7 +3870,7 @@ textarea.wpcf7-not-valid {
         width: 8px
     }
     .about_poster {
-        background-image: url(bg_about_poster.webp);
+        background-image: url(bg_about_poster.jpg);
         background-position: center bottom
     }
     .header a {
